@@ -1,5 +1,5 @@
 ---
-title: The CMS
+title: The DA
 next: /docs/cms/plugins
 consumes:
   - file: /packages/tinacms/src/tina-cms.ts
